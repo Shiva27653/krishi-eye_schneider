@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **📡 Companion Repositories:**
-> - **Teensy Hardware Control:** [krishi-eye-teensy-hardware_far-away](https://github.com/Shiva27653/krishi-eye-teensy-hardware_far-away)
+> - **Teensy Hardware Control:** [krishi-eye-teensy-hardware](https://github.com/Shiva27653/krishi-eye-teensy-hardware)
 > - **ML & Calibration Pipeline:** [krishi-eye-far_away_collective_ml-and-calibration-](https://github.com/Shiva27653/krishi-eye-far_away_collective_ml-and-calibration-)
 
 **KRISHI-EYE** is a production-grade precision agriculture platform designed for Indian farmers. It integrates real-time tractor telemetry, computer-vision disease detection, and LLM-powered agronomic advisory to transition farming from "blanket treatment" to "precision intervention."
